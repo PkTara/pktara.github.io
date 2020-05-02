@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Tipping Calculator</title>
+	<link href="styles.css" rel="stylesheet">
+	<script src="javascript.js"></script>
+</head>
+
+<body>
+	<header>
+		<!-- Image of money --> 
+		<h1>Tipping Calculator</h1>
+		<h3>By Tara F.</h3>
+	</header>
+
+	<main>
+
+		<div id="top">
+			<form>
+				<div class="inputDiv">
+					<label for="price">Price (£)</label><br>
+					<input id="price" name="price">
+					<br><br>
+				</div>
+
+				<div class="inputDiv">
+					<label for="service">Service</label><br>
+					<select id="service" name="service">
+						<option value="1">Input Service</option>
+						<option value="0.20">Outstanding - 20%</option>
+						<option value="0.15">Good - 15%</option>
+						<option value="0.10">Bad - 10%</option>
+						<option value="0.05">Awful - 5%</option>
+						<option value="0">To hell with tipping! - 0%</option>
+					</select>   
+					<br><br>
+				</div>
+
+				<div class="inputDiv">
+					<label for="splitBetween">Split Between</label><br>
+					<input id="splitBetween" name="splitBetween">
+				</div>
+			</form>
+
+			<div id="costBox" class="clear">
+				<h3>Cost</h3>
+				<button type="button" onclick=calculate()>Calculate</button>
+			</div>
+		</div>
+
+		<div id="bottom">
+			<h1 id="outputTip">Tip: £0.00</h1>
+			<h1 id="outputTotal">Total: £0.00</h1>
+			<h1 id="outputEach">Pay Each: £0.00</h1>
+		</div>
+
+	</main>
+
+</body>
+</html>
