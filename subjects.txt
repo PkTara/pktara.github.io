@@ -1,0 +1,9 @@
+Complex Numbers	Discrete Random Variables	Momentum & Impulse
+Argand Diagrams	Poisson Distributions	Work, Energy & Power
+Series	Geometric and Negative Binomial Distributions	Elastic Strings and Springs
+Roots of Polynomials	Hypothesis Testing	Elastic Collisions in One Dimension
+Volumes of Revolution	Central Limit Theorem	Elastic Collisions in Two Dimensions
+Matrices	Chi-squared Test	
+Linear Transformations	Probability Generating Functions	
+Proof by Induction	Quality of Test	
+Vectors	

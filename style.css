@@ -1,0 +1,22 @@
+table {
+    table-layout: fixed
+}
+
+td, th, h2 {
+    text-align: center;
+    background-color: azure;
+    padding: 10px;
+}
+
+th {
+    background-color: aqua;
+}
+
+a {
+    display: block;
+    text-decoration: none;
+}
+
+body {
+    background-color: antiquewhite;
+}
