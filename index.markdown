@@ -10,5 +10,8 @@ layout: home
 ![Image](./assets/Tara-Picture.png){:width="20%"}
 Wow, a wild Tara appeared!
 
+Hi! I'm Tara, a student studying Maths & CS at University of Warwick.
+
+
 
 

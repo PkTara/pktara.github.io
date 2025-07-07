@@ -1,0 +1,76 @@
+---
+layout: default
+---
+
+<style>
+  .post {
+    padding: 10px;
+    border-radius: 5px;
+  }
+
+  .techcrew {
+    background-color: rgba(240, 198, 160, 0.4);
+  }
+
+  .projects {
+    background-color: rgba(198, 208, 240, 0.4);
+  }
+
+  .maths {
+    background-color: rgba(173, 235, 179, 0.4);
+  }
+
+
+
+</style>
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  {%- if site.posts.size > 0 -%}
+    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+    <ul class="post-list">
+      {%- for post in site.posts -%}
+      <li
+      class="post {{ post.categories | join: ' ' }}"
+      >
+        
+
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <h3>
+          
+
+          <a class="post-link" href="{{ post.url | relative_url }}" style="display: flex; align-items: center; gap: 10px;">
+            {%- if post.image -%}
+              <span>
+                <img width="100vw" src="{{ post.image | relative_url }}" alt="{{ post.title | escape }}" class="post-image" style="display: block;">
+              </span>
+            {%- endif -%}
+            <span>{{ post.title | escape }}</span>
+          </a>
+        </h3>
+        {%- if site.show_excerpts -%}
+          {{ post.excerpt }}
+        {%- endif -%}
+
+        {%- if site.show_desc -%}
+          {{ post.desc }}
+        {%- endif -%}
+
+        {%- if site.show_categories -%}
+          <p class="post-meta">Tags: {{ post.categories | join: ', ' }}</p>
+        {%- endif -%}
+
+      </li>
+      {%- endfor -%}
+    </ul>
+
+    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+  {%- endif -%}
+
+</div>

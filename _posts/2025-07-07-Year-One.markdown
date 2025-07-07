@@ -3,6 +3,7 @@ layout: post
 title:  "Year One - Maths & CS - University Of Warwick"
 date:   2025-07-07 12:56:12 +0200
 categories: warwick uni
+desc: "Yay, a description!"
 ---
 
 So, uh... hi! Welcome to my long overdue portfollio site. Luckily, with the time I've spent procrastinating on making this, I've been having even more experiences to write about!
