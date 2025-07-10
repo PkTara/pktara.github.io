@@ -39,7 +39,7 @@ linkedin_link: https://www.linkedin.com/in/tara-fahey-14323b238/
 theme: minima
 
 minima:
-  skin: "slate"
+  skin: dark
 plugins:
   - jekyll-feed
   - jekyll-include-cache

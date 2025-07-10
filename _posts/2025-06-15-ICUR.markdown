@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "2025 ICUR Technician - Unitemps"
+title:  "2025 ICUR - Technician Unitemps"
 date:   2025-06-15 12:56:12 +0200
 categories: warwick uni unitemps ICUR work
-image: assets/ICUR_Square-01.png
+image: assets/images/post-icons/ICUR_Square-01.png
 ---
 
 
