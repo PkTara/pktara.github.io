@@ -28,6 +28,11 @@ show_desc: true
 show_excerpts: false 
 show_categories: false
 
+collections:
+  spoons-carpet:
+    output: false
+    permalink: /:collection/:name/
+
 
 github_username:  pktara
 github_link: https://github.com/PkTara
