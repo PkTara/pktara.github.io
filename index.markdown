@@ -5,10 +5,8 @@
 layout: home
 ---
 
-# Testing. Be prettier.
-
-![Image](./assets/Tara-Picture.png){:width="20%"}
-Wow, a wild Tara appeared!
+<!-- ![Image](./assets/Tara-Picture.png){:width="20%"} -->
+![Image](./assets/images/warwick_crest.jpeg){:width="20%"}
 
 Hi! I'm Tara, a student studying Maths & CS at University of Warwick.
 

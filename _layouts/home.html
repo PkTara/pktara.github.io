@@ -31,6 +31,14 @@ layout: default
 
   {{ content }}
 
+  <h2>Apps</h2>
+  {% for app in site.apps %}
+    <a href="{{app.url | relative_url }}"> {{app.title}}</a>
+    <p>{{app.desc}}</p>
+  {% endfor %}
+
+
+  
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
     <ul class="post-list">

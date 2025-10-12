@@ -1,0 +1,24 @@
+---
+title: "Spoons Carpet Reviews"
+layout: default
+---
+
+<div class="Spoons-Carpets">
+    {%- if site.spoons-carpet.size > 0 -%}
+    <h2 class="post-list-heading">{{ page.list_title | default: "Spoons Carpet Reviews" }}</h2>
+    <div class="post-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); gap: 1rem;">
+        {%- for item in site.spoons-carpet -%}
+        <div class="post {{ item.categories | join: ' ' }}" style="background: #fff; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.05); padding: 0.5rem;">
+            <h3>{{ item.title }}</h3>
+            {%- if item.image -%}
+                <img src="{{ item.image | relative_url }}" alt="{{ item.title }}" style="max-width: 100%; height: auto; border-radius: 4px;">
+            {%- endif -%}
+            <div class="review-content">
+                {{ item.content }}
+            </div>
+        </div>
+        {%- endfor -%}
+    </div>
+    {%- endif -%}
+    
+</div>

@@ -29,6 +29,9 @@ show_excerpts: false
 show_categories: false
 
 collections:
+  apps:
+    output: true
+    permalink: /apps/:name/
   spoons-carpet:
     output: false
     permalink: /:collection/:name/
