@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-10-12T19:56:09+00:00</updated><id>/feed.xml</id><title type="html">Tara Fahey’s Playground</title><subtitle>Welcome to my blog. Please hire me! (_please_)</subtitle><entry><title type="html">Publicity For Freshers Week</title><link href="/figma/publicity/2025/09/08/Publicity-For-Freshers.html" rel="alternate" type="text/html" title="Publicity For Freshers Week" /><published>2025-09-08T11:00:00+00:00</published><updated>2025-09-08T11:00:00+00:00</updated><id>/figma/publicity/2025/09/08/Publicity-For-Freshers</id><content type="html" xml:base="/figma/publicity/2025/09/08/Publicity-For-Freshers.html"><![CDATA[]]></content><author><name></name></author><category term="figma" /><category term="publicity" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Nerdy CS Games</title><link href="/maths/games/2025/07/10/Nerdy_Maths_Games.html" rel="alternate" type="text/html" title="Nerdy CS Games" /><published>2025-07-10T06:00:00+00:00</published><updated>2025-07-10T06:00:00+00:00</updated><id>/maths/games/2025/07/10/Nerdy_Maths_Games</id><content type="html" xml:base="/maths/games/2025/07/10/Nerdy_Maths_Games.html"><![CDATA[<p>Games I’ve learnt a lot from include:</p>
+
+<ul>
+  <li><a href="https://nandgame.com/">NAND game</a> (build PC from logic gates)</li>
+  <li><a href="https://store.steampowered.com/app/1444480/Turing_Complete/">Turing Complete ($)</a> (build a PC from logic gates, souped-up Steam edition)</li>
+  <li>
+    <p><a href="https://store.steampowered.com/app/2802710/Quantum_Odyssey/">Quantum Odyssey ($)</a> (learn quantum computing! From quantum equivalent of logic gates)</p>
+  </li>
+  <li><a href="https://adam.math.hhu.de/">The Natural Numbers Game</a> (teaches Lean, a maths prover programming language)</li>
+  <li><a href="https://store.steampowered.com/app/220200/Kerbal_Space_Program/">Kerbal Space Program ($)</a> (teaches rocket science)</li>
+  <li><a href="https://medium.com/geekculture/learn-css-by-playing-games-cf70a79a38">CSS Games - Flexbox Froggy, Grid Garden, CSS Battle</a></li>
+</ul>]]></content><author><name></name></author><category term="maths" /><category term="games" /><summary type="html"><![CDATA[Games I’ve learnt a lot from include:]]></summary></entry><entry><title type="html">First Year - Maths &amp;amp; CS - University Of Warwick</title><link href="/warwick/uni/2025/07/07/Year-One.html" rel="alternate" type="text/html" title="First Year - Maths &amp;amp; CS - University Of Warwick" /><published>2025-07-07T10:56:12+00:00</published><updated>2025-07-07T10:56:12+00:00</updated><id>/warwick/uni/2025/07/07/Year-One</id><content type="html" xml:base="/warwick/uni/2025/07/07/Year-One.html"><![CDATA[<p>So, uh… hi! Welcome to my long overdue portfollio site. Luckily, with the time I’ve spent procrastinating on making this, I’ve been having even more experiences to write about!</p>
+
+<h1 id="societies">Societies</h1>
+<p>Help I attended too many</p>
+<ul>
+  <li>UWCS - Computing Society</li>
+  <li>WAI - Warwick AI</li>
+  <li>Climbing</li>
+  <li>Tech Crew</li>
+  <li>Language Society</li>
+  <li>Women’s Football</li>
+  <li>Livesaving that one time</li>
+  <li>Skateboard Soc Term 1</li>
+  <li>Crochet Soc Term 1</li>
+</ul>
+
+<h1 id="modules">Modules</h1>
+<p>O-Notation Counter - How many times O-Notation was covered from scratch.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Module</th>
+      <th>Rating</th>
+      <th>Review</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>CS118 - Programming for Computer Scientists</td>
+      <td>9</td>
+      <td>Teaches programming from scratch. While you think going over basics would be boring, the module’s led by an entertaining lecturer. It was my first foray into Java, and while I hated the verboseness and having to throw semi-colons everywhere, it did make me appreciate OOP a lot more.</td>
+    </tr>
+    <tr>
+      <td>CS146 - Discrete Mathematics</td>
+      <td>4</td>
+      <td>O-Notation Counter: 1. Learnt about rabits breeding, and how many moves it takes max to solve Hanoi’s Tower. .. That’s pretty much it.</td>
+    </tr>
+    <tr>
+      <td>CS147 - Discrete Mathematics</td>
+      <td>7</td>
+      <td>O-Notation Counter: 2. Hey, graph theory finally pokes its head! Ramsey theory - you’re awesome.</td>
+    </tr>
+    <tr>
+      <td>CS126 - Design of Information Structures</td>
+      <td>8.5</td>
+      <td>O-Notation Counter: 3. Partly recovered A-Level CS. Which I didn’t do. So it demystified for me the inner workings of structures like hashmaps and min-heaps. Coursework involved creating the back-end for a movie database, and pulling hairs out as I attempted to try design everything to run in linear time.</td>
+    </tr>
+    <tr>
+      <td>LL255 - French Intermediate Accelerated</td>
+      <td>9</td>
+      <td>Une petite pause dans mes études. Pendant mon année sabbatique, en voyageant en France, j’ai atteint un très bon niveau à l’oral, mais mes connaissances grammaticales étaient faibles. J’ai suivi ce cours pour essayer de combler les lacunes dans mes connaissances, dans le but d’étudier ou de travailler en France à l’avenir.</td>
+    </tr>
+    <tr>
+      <td>MA138 - Sets and Numbers</td>
+      <td>9</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>MA138 - Calculus 1</td>
+      <td>8</td>
+      <td>Welcome to maths, where you start the year going what-the-hell-is-this, and then end it going “well of course, that’s the most natural thing in the world!”</td>
+    </tr>
+    <tr>
+      <td>MA143 - Calculus 2</td>
+      <td>8</td>
+      <td>Wow, after a year, we finally get to differentiation! No way!</td>
+    </tr>
+    <tr>
+      <td>MA149 - Linear Algebra</td>
+      <td>8</td>
+      <td>The lecturer may have started off scary by making us derive matricies from the most basic axioms of linear algebra, but that did make it become my most favourite maths module that year.</td>
+    </tr>
+    <tr>
+      <td>ST120 - Introduction to Probability</td>
+      <td>7.5</td>
+      <td>Birthday Paradox Count: 3</td>
+    </tr>
+  </tbody>
+</table>]]></content><author><name></name></author><category term="warwick" /><category term="uni" /><summary type="html"><![CDATA[So, uh… hi! Welcome to my long overdue portfollio site. Luckily, with the time I’ve spent procrastinating on making this, I’ve been having even more experiences to write about!]]></summary></entry><entry><title type="html">How Many Moves Are Needed to Set Up a Pool Table?</title><link href="/warwick/uni/ai/projects/maths/2025/06/20/Pool-Table.html" rel="alternate" type="text/html" title="How Many Moves Are Needed to Set Up a Pool Table?" /><published>2025-06-20T10:56:12+00:00</published><updated>2025-06-20T10:56:12+00:00</updated><id>/warwick/uni/ai/projects/maths/2025/06/20/Pool%20Table</id><content type="html" xml:base="/warwick/uni/ai/projects/maths/2025/06/20/Pool-Table.html"><![CDATA[<h2 id="pool-ball-arrangement---github-paper">Pool Ball Arrangement - Github Paper</h2>
+
+<style> .pdf-embed-wrap-46adefb1-98c4-4785-bf7e-5e91500785f2 { display: flex; flex-direction: column; width: 100%; height: 650px; } .pdf-embed-container-46adefb1-98c4-4785-bf7e-5e91500785f2 { height: 100%; } .pdf-link-46adefb1-98c4-4785-bf7e-5e91500785f2 { background-color: white; text-align: center; border-style: solid; } .pdf-embed-container-46adefb1-98c4-4785-bf7e-5e91500785f2 iframe { width: 100%; height: 100%; } </style>
+<div class="pdf-embed-wrap-46adefb1-98c4-4785-bf7e-5e91500785f2"> <div class="pdf-link-46adefb1-98c4-4785-bf7e-5e91500785f2"> <a href="/assets/pdf/25_06___Pool_Ball_Arrangement.pdf" target="_blank">View PDF</a> </div> <div class="pdf-embed-container-46adefb1-98c4-4785-bf7e-5e91500785f2"> <iframe src="/assets/pdf/25_06___Pool_Ball_Arrangement.pdf" frameborder="0" allowfullscreen=""></iframe> </div> </div>]]></content><author><name></name></author><category term="warwick" /><category term="uni" /><category term="ai" /><category term="projects" /><category term="maths" /><summary type="html"><![CDATA[Pool Ball Arrangement - Github Paper]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/post-icons/poolTable.png" /><media:content medium="image" url="/assets/images/post-icons/poolTable.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">2025 ICUR - Technician Unitemps</title><link href="/warwick/uni/unitemps/icur/work/2025/06/15/ICUR.html" rel="alternate" type="text/html" title="2025 ICUR - Technician Unitemps" /><published>2025-06-15T10:56:12+00:00</published><updated>2025-06-15T10:56:12+00:00</updated><id>/warwick/uni/unitemps/icur/work/2025/06/15/ICUR</id><content type="html" xml:base="/warwick/uni/unitemps/icur/work/2025/06/15/ICUR.html"><![CDATA[]]></content><author><name></name></author><category term="warwick" /><category term="uni" /><category term="unitemps" /><category term="ICUR" /><category term="work" /><summary type="html"><![CDATA[]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/post-icons/ICUR_Square-01.png" /><media:content medium="image" url="/assets/images/post-icons/ICUR_Square-01.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Warwick Students Art Festival 2025 - Streaming &amp;amp; Bartending</title><link href="/warwick/uni/wsaf/techcrew/2025/06/10/WSAF_2025.html" rel="alternate" type="text/html" title="Warwick Students Art Festival 2025 - Streaming &amp;amp; Bartending" /><published>2025-06-10T10:56:12+00:00</published><updated>2025-06-10T10:56:12+00:00</updated><id>/warwick/uni/wsaf/techcrew/2025/06/10/WSAF_2025</id><content type="html" xml:base="/warwick/uni/wsaf/techcrew/2025/06/10/WSAF_2025.html"><![CDATA[]]></content><author><name></name></author><category term="warwick" /><category term="uni" /><category term="wsaf" /><category term="techcrew" /><summary type="html"><![CDATA[]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/post-icons/WSAF.png" /><media:content medium="image" url="/assets/images/post-icons/WSAF.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Society Elections - UWCS Publicity Officer</title><link href="/warwick/uni/societies/exec/wai/2025/03/14/UWCS-Publicity-Officer.html" rel="alternate" type="text/html" title="Society Elections - UWCS Publicity Officer" /><published>2025-03-14T10:56:12+00:00</published><updated>2025-03-14T10:56:12+00:00</updated><id>/warwick/uni/societies/exec/wai/2025/03/14/UWCS%20Publicity%20Officer</id><content type="html" xml:base="/warwick/uni/societies/exec/wai/2025/03/14/UWCS-Publicity-Officer.html"><![CDATA[]]></content><author><name></name></author><category term="warwick" /><category term="uni" /><category term="societies" /><category term="exec" /><category term="wai" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Society Elections - WAI Projects Officer</title><link href="/warwick/uni/societies/exec/wai/2025/03/14/WAI-Projects-Officer.html" rel="alternate" type="text/html" title="Society Elections - WAI Projects Officer" /><published>2025-03-14T10:56:12+00:00</published><updated>2025-03-14T10:56:12+00:00</updated><id>/warwick/uni/societies/exec/wai/2025/03/14/WAI%20Projects%20Officer</id><content type="html" xml:base="/warwick/uni/societies/exec/wai/2025/03/14/WAI-Projects-Officer.html"><![CDATA[]]></content><author><name></name></author><category term="warwick" /><category term="uni" /><category term="societies" /><category term="exec" /><category term="wai" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">2025 Game Jam - Gecko’s Revenge</title><link href="/warwick/uni/gamejam/projects/collaborative/2025/02/10/GameJam.html" rel="alternate" type="text/html" title="2025 Game Jam - Gecko’s Revenge" /><published>2025-02-10T10:56:12+00:00</published><updated>2025-02-10T10:56:12+00:00</updated><id>/warwick/uni/gamejam/projects/collaborative/2025/02/10/GameJam</id><content type="html" xml:base="/warwick/uni/gamejam/projects/collaborative/2025/02/10/GameJam.html"><![CDATA[<p><img src="/assets/images/GameJam.jpg" alt="Gecko's Revenge" /></p>
+
+<p>As part of the Warwick Game Jam 2025, me and my team made a time-reversal game using Godot.</p>
+
+<p><a href="https://github.com/olly192/game-jam-2025/tree/main">Gecko’s Revenge - Github</a></p>]]></content><author><name></name></author><category term="warwick" /><category term="uni" /><category term="gamejam" /><category term="projects" /><category term="collaborative" /><summary type="html"><![CDATA[]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets%5Cimages%5Cpost-icons%5CGeckosRevenge.svg" /><media:content medium="image" url="/assets%5Cimages%5Cpost-icons%5CGeckosRevenge.svg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">WAI - Drone Project</title><link href="/warwick/uni/wai/drone/projects/2025/01/10/WAI-Drone-Project.html" rel="alternate" type="text/html" title="WAI - Drone Project" /><published>2025-01-10T10:56:12+00:00</published><updated>2025-01-10T10:56:12+00:00</updated><id>/warwick/uni/wai/drone/projects/2025/01/10/WAI%20Drone%20Project</id><content type="html" xml:base="/warwick/uni/wai/drone/projects/2025/01/10/WAI-Drone-Project.html"><![CDATA[]]></content><author><name></name></author><category term="warwick" /><category term="uni" /><category term="wai" /><category term="drone" /><category term="projects" /><summary type="html"><![CDATA[]]></summary></entry></feed>
