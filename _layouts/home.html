@@ -33,7 +33,7 @@ layout: default
 
   <h2>Apps</h2>
   {% for app in site.apps %}
-    <a href="{{app.url | relative_url }}"> {{app.title}}</a>
+    <a href="{{ app.redirect | default: app.url | relative_url }}"> {{app.title}}</a>
     <p>{{app.desc}}</p>
   {% endfor %}
 

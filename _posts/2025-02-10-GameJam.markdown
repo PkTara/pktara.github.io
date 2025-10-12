@@ -3,16 +3,18 @@ layout: post
 title:  "2025 Game Jam - Gecko's Revenge"
 date:   2025-02-10 12:56:12 +0200
 categories: warwick uni gamejam projects collaborative
-image: assets\images\post-icons\GeckosRevenge.svg
+image: assets/images/post-icons/GeckosRevenge.svg
 ---
 
-![Gecko's Revenge](/assets/images/GameJam.jpg)
+![Gecko's Revenge - Game Screenshot](/assets/images/game_jam_2.png)
 
 As part of the Warwick Game Jam 2025, me and my team made a time-reversal game using Godot. 
 
 For the Warwick 2025 Game Jam, the theme was “Time”.  My team and I used Godot to make a 3D game where you could reverse time. You could reverse boulders, projectiles, defeat enemies, and progress through the story to defeat the Gecko King. We made use of github for the four of us to collaborate simultaneously. I also implemented enemy AI that would move toward and attack the player.
 
 [Gecko's Revenge - Github](https://github.com/olly192/game-jam-2025/tree/main)
+
+![Gecko's Revenge](/assets/images/GameJam.jpg)
 
 
 
