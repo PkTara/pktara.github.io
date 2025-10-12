@@ -1,10 +1,40 @@
 ---
 layout: post
-title:  "Year One - Maths & CS - University Of Warwick"
+title:  "First Year - Maths & CS - University Of Warwick"
 date:   2025-07-07 12:56:12 +0200
 categories: warwick uni
-desc: "Yay, a description!"
+desc: "An overview of everything I did in my first year of university"
 ---
 
 So, uh... hi! Welcome to my long overdue portfollio site. Luckily, with the time I've spent procrastinating on making this, I've been having even more experiences to write about!
+
+# Societies
+Help I attended too many
+- UWCS - Computing Society
+- WAI - Warwick AI
+- Climbing
+- Tech Crew
+- Language Society
+- Women's Football
+- Livesaving that one time
+- Skateboard Soc Term 1
+- Crochet Soc Term 1
+
+# Modules
+O-Notation Counter - How many times O-Notation was covered from scratch.
+
+| Module | Rating | Review |
+|---|
+| CS118 - Programming for Computer Scientists | 9 | Teaches programming from scratch. While you think going over basics would be boring, the module's led by an entertaining lecturer. It was my first foray into Java, and while I hated the verboseness and having to throw semi-colons everywhere, it did make me appreciate OOP a lot more. |
+| CS146 - Discrete Mathematics | 4 | O-Notation Counter: 1. Learnt about rabits breeding, and how many moves it takes max to solve Hanoi's Tower. .. That's pretty much it.
+| CS147 - Discrete Mathematics | 7 | O-Notation Counter: 2. Hey, graph theory finally pokes its head! Ramsey theory - you're awesome.
+| CS126 - Design of Information Structures | 8.5 | O-Notation Counter: 3. Partly recovered A-Level CS. Which I didn't do. So it demystified for me the inner workings of structures like hashmaps and min-heaps. Coursework involved creating the back-end for a movie database, and pulling hairs out as I attempted to try design everything to run in linear time. 
+| LL255 - French Intermediate Accelerated | 9 | Une petite pause dans mes études. Pendant mon année sabbatique, en voyageant en France, j’ai atteint un très bon niveau à l’oral, mais mes connaissances grammaticales étaient faibles. J’ai suivi ce cours pour essayer de combler les lacunes dans mes connaissances, dans le but d’étudier ou de travailler en France à l’avenir.
+| MA138 - Sets and Numbers | 9 | 
+| MA138 - Calculus 1 | 8 | Welcome to maths, where you start the year going what-the-hell-is-this, and then end it going "well of course, that's the most natural thing in the world!"
+| MA143 - Calculus 2 | 8 | Wow, after a year, we finally get to differentiation! No way! 
+| MA149 - Linear Algebra | 8 | The lecturer may have started off scary by making us derive matricies from the most basic axioms of linear algebra, but that did make it become my most favourite maths module that year.
+| ST120 - Introduction to Probability | 7.5 | Birthday Paradox Count: 3
+
+
 
