@@ -6,7 +6,7 @@ categories: warwick uni unitemps ICUR work
 image: assets/images/post-icons/ICUR_Square-01.png
 ---
 
-
+I was a technician for the International Conference for Undergrad Research. I managed livestreams of undergrads presenting their work, which included video mixing, liaising with the session chair and presenter, as well as on-the-fly management of any tech issues that came up.
 
 
 
