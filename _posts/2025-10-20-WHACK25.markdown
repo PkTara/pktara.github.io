@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "WHACK 25 - Fin-Scrooge"
+date:   2025-10-20 12:00:00 +0100
+categories: hackathon 
+desc: "We did a hackathon! Sleep deprivation, pizza, and results"
+---
+
+fin-scrooge.containers.uwcs.co.uk
+https:
+
+Github Link: https://github.com/PkTara/WHACK25
+
