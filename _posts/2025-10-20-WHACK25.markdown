@@ -7,7 +7,10 @@ desc: "We did a hackathon! Sleep deprivation, pizza, and results"
 ---
 
 fin-scrooge.containers.uwcs.co.uk
-https:
+
+
+We did a hackathon!
+
 
 Github Link: https://github.com/PkTara/WHACK25
 
