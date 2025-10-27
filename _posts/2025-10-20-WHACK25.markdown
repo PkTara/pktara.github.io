@@ -14,3 +14,9 @@ We did a hackathon!
 
 Github Link: https://github.com/PkTara/WHACK25
 
+Sidenote:
+![Oculus Screen](<../assets/images/WHACK - Oculus Screen.jpg>)
+I made that! NB: the styrations aren't meant to be there, they're just an artifact of the camera... which in itself is pretty cool.
+
+<video controls src="../assets/images/WHACK - Oculus Screen.mp4" title="Title"></video>
+_weeeeeee!_
